@@ -1,0 +1,1 @@
+Static landing page with links to my resume, github and linkedin profiles.

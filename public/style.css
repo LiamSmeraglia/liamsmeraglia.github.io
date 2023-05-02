@@ -1,0 +1,49 @@
+.name-container {
+    background-color: black;
+    padding-bottom: 16px;
+    margin-bottom: 16px;
+}
+
+h1 {
+    color: white;
+}
+
+.size-150 {
+    width: 200px;
+    height: 200px;
+}
+
+.me-1 {
+    margin-right: 4px;
+}
+
+.mb-1 {
+    margin-bottom: 4px;
+}
+
+.resume-button {
+    color: whitesmoke;
+    border: none;
+    border-radius: 4px;
+    padding: 8px;
+    font-size: 2rem;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.resume-button:hover {
+    color: white;
+}
+
+
+.black-background {
+    background-color: black;
+}
+
+.orange-background {
+    background-color: #FF7A00;
+}
+
+.linkedin-background {
+    background-color: #0077b5;
+}
